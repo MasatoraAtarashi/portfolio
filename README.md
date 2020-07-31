@@ -30,7 +30,7 @@
 ### 株式会社マネーフォワード
 | key | value |
 | :--- | :----|
-| Term | 2019/5 - 現在 |
+| Term | 2020/5 - 現在 |
 | Job | エンジニア |
 | Detail | MoneyForward MEの開発(Rails) |
 

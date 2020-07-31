@@ -1,6 +1,8 @@
 # portfolio
 新真虎の自己紹介用リポジトリ
 
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=MasatoraAtarashi)
+
 | key | value |
 | :--- | :----|
 | Name | 新真虎 |

@@ -2,6 +2,7 @@
 新真虎の自己紹介用リポジトリ
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=MasatoraAtarashi)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=MasatoraAtarashi)
 
 | key | value |
 | :--- | :----|

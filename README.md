@@ -44,6 +44,7 @@
 | Term | 2020/6 - 2020/6(2日間) |
 | Job | エンジニア |
 | Detail | バックエンドチューニングコンペティション(Go) |
+| blog | https://toramasa.hatenablog.jp/entry/2020/06/10/010802 |
 
 
 # 公開中のサービス

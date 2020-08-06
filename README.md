@@ -62,6 +62,7 @@
 | SiteURL | https://apps.apple.com/jp/app/shiori-web-for-safari/id1480539987?l=ja |
 | Term | 2019/9 - 2019/9(一週間) |
 | Detail | Webにしおりをはさめるアプリ。日本appstore1位を複数回獲得(ニュースカテゴリ) |
+| blog | https://toramasa.hatenablog.jp/entry/2020/05/28/010831 |
 
 | key | value |
 | :--- | :----|

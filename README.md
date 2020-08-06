@@ -37,7 +37,7 @@
 | Term | 2020/5 - 現在 |
 | Job | エンジニア |
 | Detail | MoneyForward MEの開発(Rails) |
-| blog | https://toramasa.hatenablog.jp/entry/2020/08/05/184856 |
+| blog | [独学大学生が3ヶ月インターンして学んだこと](https://toramasa.hatenablog.jp/entry/2020/08/05/184856) |
 
 ### 株式会社サイバーエージェント
 | key | value |
@@ -45,7 +45,7 @@
 | Term | 2020/6 - 2020/6(2日間) |
 | Job | エンジニア |
 | Detail | バックエンドチューニングコンペティション(Go) |
-| blog | https://toramasa.hatenablog.jp/entry/2020/06/10/010802 |
+| blog | [サイバーエージェントの2daysインターン「サーバーサイド向け 開発型インターンシップ ONLINE」に参加してきました！](https://toramasa.hatenablog.jp/entry/2020/06/10/010802) |
 
 
 # 公開中のサービス
@@ -62,7 +62,7 @@
 | SiteURL | https://apps.apple.com/jp/app/shiori-web-for-safari/id1480539987?l=ja |
 | Term | 2019/9 - 2019/9(一週間) |
 | Detail | Webにしおりをはさめるアプリ。日本appstore1位を複数回獲得(ニュースカテゴリ) |
-| blog | https://toramasa.hatenablog.jp/entry/2020/05/28/010831 |
+| blog | [個人開発したアプリが1万ダウンロード突破したので振り返ってみる](https://toramasa.hatenablog.jp/entry/2020/05/28/010831) |
 
 | key | value |
 | :--- | :----|

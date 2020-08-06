@@ -53,22 +53,29 @@
 | :--- | :----|
 | Name | Excite Map |
 | SiteURL | https://apps.apple.com/jp/app/excite-map/id1510231873 |
+| GithubURL | https://github.com/MasatoraAtarashi/excite-map |
 | Term | 2020/4 - 2020/8(3ヶ月半) |
 | Detail | 小さな感動を、地図に散りばめよう。Excite Mapは散歩に特化した地図アプリです。 |
+| 技術 | Ruby on Rails(API), Swift, Xcode, AWS, CircleCI等 |
+| blog | |
 
 | key | value |
 | :--- | :----|
 | Name | Shiori web for Safari |
 | SiteURL | https://apps.apple.com/jp/app/shiori-web-for-safari/id1480539987?l=ja |
+| GithubURL | https://github.com/MasatoraAtarashi/Shiori |
 | Term | 2019/9 - 2019/9(一週間) |
 | Detail | Webにしおりをはさめるアプリ。日本appstore1位を複数回獲得(ニュースカテゴリ) |
+| 技術 | Swift, Xcode |
 | blog | [個人開発したアプリが1万ダウンロード突破したので振り返ってみる](https://toramasa.hatenablog.jp/entry/2020/05/28/010831) |
 
 | key | value |
 | :--- | :----|
 | Name | Ten-books |
 | SiteURL | https://ten-books.herokuapp.com/ |
+| GithubURL | https://github.com/MasatoraAtarashi/ten-books |
 | Term | 2019/8 - 2019/8(一週間) |
+| 技術 | Ruby on Rails等 |
 | Detail | いろんな人の人生を変えた10冊を共有・参照できるアプリ |
 
 # 学内外のプロジェクト

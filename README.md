@@ -37,6 +37,7 @@
 | Term | 2020/5 - 現在 |
 | Job | エンジニア |
 | Detail | MoneyForward MEの開発(Rails) |
+| blog | https://toramasa.hatenablog.jp/entry/2020/08/05/184856 |
 
 ### 株式会社サイバーエージェント
 | key | value |

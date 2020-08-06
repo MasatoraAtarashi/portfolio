@@ -50,6 +50,13 @@
 # 公開中のサービス
 | key | value |
 | :--- | :----|
+| Name | Excite Map |
+| SiteURL | https://apps.apple.com/jp/app/excite-map/id1510231873 |
+| Term | 2020/4 - 2020/8(3ヶ月半) |
+| Detail | 小さな感動を、地図に散りばめよう。Excite Mapは散歩に特化した地図アプリです。 |
+
+| key | value |
+| :--- | :----|
 | Name | Shiori web for Safari |
 | SiteURL | https://apps.apple.com/jp/app/shiori-web-for-safari/id1480539987?l=ja |
 | Term | 2019/9 - 2019/9(一週間) |

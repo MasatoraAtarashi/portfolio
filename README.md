@@ -87,7 +87,7 @@
 | Detail | Webにしおりをはさめるアプリ。日本appstore1位を複数回獲得(ニュースカテゴリ) |
 | 技術 | Swift, Xcode |
 | blog | [個人開発したアプリが1万ダウンロード突破したので振り返ってみる](https://toramasa.hatenablog.jp/entry/2020/05/28/010831) |
-![1](1.jpeg)
+![1](https://github.com/MasatoraAtarashi/MasatoraAtarashi/blob/master/1.jpeg)
 
 | key | value |
 | :--- | :----|
@@ -125,4 +125,4 @@
 - ゲーム
 
 #### 小笠原諸島でマグロを釣ったときの写真
-![マグロ](マグロ.jpg)
+![マグロ](https://github.com/MasatoraAtarashi/MasatoraAtarashi/blob/master/%E3%83%9E%E3%82%B0%E3%83%AD.jpg)

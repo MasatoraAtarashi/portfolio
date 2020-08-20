@@ -88,7 +88,8 @@
 | 技術 | Swift, Xcode |
 | blog | [個人開発したアプリが1万ダウンロード突破したので振り返ってみる](https://toramasa.hatenablog.jp/entry/2020/05/28/010831) |
 
-![1](https://github.com/MasatoraAtarashi/MasatoraAtarashi/blob/master/1.jpeg)
+<img src="https://github.com/MasatoraAtarashi/MasatoraAtarashi/blob/master/1.jpeg" height="500">
+
 
 | key | value |
 | :--- | :----|

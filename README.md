@@ -14,6 +14,7 @@
 | Email | t17023ma@sfc.keio.ac.jp |
 | GitHub | https://github.com/MasatoraAtarashi |
 | 技術ブログ | https://toramasa.hatenablog.jp/archive |
+| Qiita | https://qiita.com/MasatoraAtarashi |
 | AtCoder | https://atcoder.jp/users/masatora |
 | Twitter(個人) | https://twitter.com/toramasaA03 |
 | Twitter(思いついたアイデアをひたすらツイートするアカウント) | https://twitter.com/Idea_note123 |

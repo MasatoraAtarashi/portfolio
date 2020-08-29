@@ -65,9 +65,7 @@
 | :--- | :----|
 | Term | 2020/8 - 2020/8(5日間) |
 | Job | エンジニア・データサイエンティスト |
-| Detail | Hack The Nikkei
-https://hack.nikkei.com/internJobs/2019_summer
-"二人一組で、日経電子版の新機能やデジタル事業の新サービスを制作。日経の記事データなど各種APIや膨大なアクセスログデータを使って開発。" |
+| Detail | Hack The Nikkei(https://hack.nikkei.com/internJobs/2019_summer) "二人一組で、日経電子版の新機能やデジタル事業の新サービスを制作。日経の記事データなど各種APIや膨大なアクセスログデータを使って開発。" |
 | blog |  |
 
 # 公開中のサービス

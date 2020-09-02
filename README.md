@@ -101,6 +101,9 @@
 | 技術 | Ruby on Rails等 |
 | Detail | いろんな人の人生を変えた10冊を共有・参照できるアプリ |
 
+# 受賞歴・登壇
+- なし
+
 # 学内外のプロジェクト
 ### JAKARTA WORKSHOP 2018 ‘What bridges the SUPER MACRO and the SUPER MICRO?’
 | key | value |

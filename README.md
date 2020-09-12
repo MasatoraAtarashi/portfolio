@@ -82,6 +82,14 @@
 | Detail | 名刺アプリの開発 |
 | blog |  |
 
+### クックパッド株式会社
+| key | value |
+| :--- | :----|
+| Term | 2020/9 - 2020/9(5日間) |
+| Job | Railsエンジニア |
+| Detail | https://internship.cookpad.jp/ |
+| blog |  |
+
 # 公開中のサービス
 | key | value |
 | :--- | :----|

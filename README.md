@@ -51,7 +51,7 @@
 | Term | 2020/9 - 2020/9(日間) |
 | Job | エンジニア |
 | Detail | https://information.nttdocomo-fresh.jp/ |
-| blog |  |
+| blog | https://github.com/MasatoraAtarashi/docomo-hacathon-E |
 
 ### クックパッド株式会社
 | key | value |

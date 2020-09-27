@@ -108,7 +108,8 @@
 | Term | 2020/4 - 2020/8(3ヶ月半) |
 | Detail | 小さな感動を、地図に散りばめよう。Excite Mapは散歩に特化した地図アプリです。 |
 | 技術 | Ruby on Rails(API), Swift, Xcode, AWS, CircleCI等 |
-| blog | |
+| スライド | https://docs.google.com/presentation/d/1vjpa1O8XC5_VqcqJCkO_MNxy-mUxIuK3Ynk6U_wHkBI/edit?usp=sharing |
+![a](https://i.imgur.com/M3VZgBo.jpg)![a](https://i.imgur.com/ZITEAE5.jpg)![a](https://i.imgur.com/JMIEncq.jpg)
 
 | key | value |
 | :--- | :----|

@@ -45,6 +45,20 @@
 | Detail | MoneyForward MEの開発(Rails) |
 | blog | [独学大学生が3ヶ月インターンして学んだこと](https://toramasa.hatenablog.jp/entry/2020/08/05/184856) |
 
+### 株式会社Wantedly
+| key | value |
+| :--- | :----|
+| Term | 2020/10 - 2020/10(3週間) |
+| Job | エンジニア |
+| Detail | Wantedly Visitのプレミアム課金率の改善 |
+
+### 株式会社ハウテレビジョン
+| key | value |
+| :--- | :----|
+| Term | 2020/9 - 2020/10 |
+| Job | エンジニア |
+| Detail | 外資就活ドットコムの開発(Go) |
+
 ### 株式会社NTTドコモ
 | key | value |
 | :--- | :----|

@@ -124,7 +124,7 @@
 | 技術 | Ruby on Rails(API), Swift, Xcode, AWS, CircleCI等 |
 | スライド | https://docs.google.com/presentation/d/1vjpa1O8XC5_VqcqJCkO_MNxy-mUxIuK3Ynk6U_wHkBI/edit?usp=sharing |
 
-|表紙|中面1|あ|
+|1|2|3|
 |---|---|---|
 |![](https://i.imgur.com/M3VZgBo.jpg)|![](https://i.imgur.com/ZITEAE5.jpg)| ![](https://i.imgur.com/JMIEncq.jpg) |
 

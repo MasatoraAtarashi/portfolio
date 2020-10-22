@@ -50,7 +50,7 @@
 | :--- | :----|
 | Term | 2020/10 - 2020/10(3週間) |
 | Job | エンジニア |
-| Detail | Wantedly Visitのプレミアム課金率の改善 |
+| Detail | Wantedly Visitのプレミアム課金率の改善・居住地入力の予測変換機能 |
 
 ### 株式会社ハウテレビジョン
 | key | value |

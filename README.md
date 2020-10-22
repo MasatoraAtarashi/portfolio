@@ -123,7 +123,10 @@
 | Detail | 小さな感動を、地図に散りばめよう。Excite Mapは散歩に特化した地図アプリです。 |
 | 技術 | Ruby on Rails(API), Swift, Xcode, AWS, CircleCI等 |
 | スライド | https://docs.google.com/presentation/d/1vjpa1O8XC5_VqcqJCkO_MNxy-mUxIuK3Ynk6U_wHkBI/edit?usp=sharing |
-![a](https://i.imgur.com/M3VZgBo.jpg)![a](https://i.imgur.com/ZITEAE5.jpg)![a](https://i.imgur.com/JMIEncq.jpg)
+
+|表紙|中面1|あ|
+|---|---|---|
+|![](https://i.imgur.com/M3VZgBo.jpg)|![](https://i.imgur.com/ZITEAE5.jpg)| ![](https://i.imgur.com/JMIEncq.jpg) |
 
 | key | value |
 | :--- | :----|

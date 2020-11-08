@@ -151,7 +151,8 @@
 | Detail | いろんな人の人生を変えた10冊を共有・参照できるアプリ |
 
 # 受賞歴・登壇
-- サポーターズ技育展登壇
+- [サポーターズ技育展登壇](https://talent.supporterz.jp/geekten/2020/)
+- [Qiitaトレンド1位](https://qiita.com/MasatoraAtarashi/items/eec4642fe1e6ce79304d)
 
 # 学内外のプロジェクト
 ### JAKARTA WORKSHOP 2018 ‘What bridges the SUPER MACRO and the SUPER MICRO?’

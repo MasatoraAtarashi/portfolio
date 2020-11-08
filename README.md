@@ -42,7 +42,7 @@
 | :--- | :----|
 | Term | 2020/5 - 現在 |
 | Job | エンジニア |
-| Detail | MoneyForward MEの開発(Rails) |
+| Detail | MoneyForward MEのWebリニューアル(Rails), Docker化等 |
 | blog | [独学大学生が3ヶ月インターンして学んだこと](https://toramasa.hatenablog.jp/entry/2020/08/05/184856) |
 
 ### 株式会社Wantedly
@@ -50,7 +50,7 @@
 | :--- | :----|
 | Term | 2020/10 - 2020/10(3週間) |
 | Job | エンジニア |
-| Detail | Wantedly Visitのプレミアム課金率の改善・居住地入力の予測変換機能 |
+| Detail | Wantedly Visitのプレミアム課金率の改善・居住地入力の予測変換機能(Rails, Big Query等) |
 
 ### 株式会社ハウテレビジョン
 | key | value |

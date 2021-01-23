@@ -27,7 +27,7 @@
 | key | value |
 | :--- | :----|
 | Term | 201７/９ - 2019/８ |
-| Detail | IoT機器を利用したポータブルな魚群探知機の作成、ブロックチェーン |
+| Detail | IoT機器を利用したポータブルな魚群探知機の作成等。研究テーマは未定 |
 
 ### 瀧本哲史ゼミ
 | key | value |
@@ -42,7 +42,8 @@
 | :--- | :----|
 | Term | 2020/5 - 現在 |
 | Job | エンジニア |
-| Detail | MoneyForward MEのWebリニューアル(Rails), Docker化等 |
+| Detail | ・家計簿アプリマネーフォワードMEのwebリニューアルプロジェクトにおいて、お知らせ機能のAPIの設計・実装を担当 <br> ・同アプリの周辺サービスの開発環境のdocker化等のDX向上のための施策 <br>・リファクタリング等技術負債解消 <br> ・三田オフィスの会議室の命名<br> ・その他色々
+ |
 | blog | [独学大学生が3ヶ月インターンして学んだこと](https://toramasa.hatenablog.jp/entry/2020/08/05/184856) |
 
 ### 株式会社Wantedly
@@ -50,7 +51,7 @@
 | :--- | :----|
 | Term | 2020/10 - 2020/10(3週間) |
 | Job | エンジニア |
-| Detail | Wantedly Visitのプレミアム課金率の改善・居住地入力の予測変換機能(Rails, Big Query等) |
+| Detail | wantedlyプレミアムへの転換率向上のための分析・施策の提案・開発(rails, big query)<br>トライアルユーザーのプロフィール入力率を7％向上させました。 |
 
 ### 株式会社ハウテレビジョン
 | key | value |
@@ -64,7 +65,7 @@
 | :--- | :----|
 | Term | 2020/9 - 2020/9(日間) |
 | Job | エンジニア |
-| Detail | https://information.nttdocomo-fresh.jp/ |
+| Detail | 「コロナによって失われた偶発的な出会いを取り戻す」をテーマにコミュニティに一日体験参加できるLINEボットを作成しました |
 | blog | https://github.com/MasatoraAtarashi/docomo-hacathon-E |
 
 ### クックパッド株式会社
@@ -73,7 +74,7 @@
 | Term | 2020/9 - 2020/9(5日間) |
 | Job | Railsエンジニア |
 | Detail | https://internship.cookpad.jp/ |
-| blog |  |
+| detail | 一人暮らしを始めたばかりのユーザー(筋トレが趣味)のために、レシピを入力すると同等の栄養価のレシピを提案するサービスを作りました。 |
 
 ### SanSan株式会社
 | key | value |
@@ -96,7 +97,8 @@
 | :--- | :----|
 | Term | 2020/8 - 2020/8(5日間) |
 | Job | エンジニア・データサイエンティスト |
-| Detail | Hack The Nikkei(https://hack.nikkei.com/internJobs/2019_summer) "二人一組で、日経電子版の新機能やデジタル事業の新サービスを制作。日経の記事データなど各種APIや膨大なアクセスログデータを使って開発。" |
+| Detail | Hack The Nikkei(https://hack.nikkei.com/internJobs/2019_summer)  |
+| detail | 日経新聞の実データを用いて、「なりたい姿」(たとえば、高収入なエンジニア等)を設定するとその姿に近づくために読むべき記事をサジェストするAIと、そのAIを用いたiOSアプリケーションを開発しました。 |
 | blog |  |
 
 ### 株式会社サイバーエージェント
@@ -104,7 +106,7 @@
 | :--- | :----|
 | Term | 2020/6 - 2020/6(2日間) |
 | Job | エンジニア |
-| Detail | バックエンドチューニングコンペティション(Go) |
+| Detail | 2days サーバーサイド向け 開発型インターンシップ(社内向けISUCONを学生版にアレンジしたBackend Tuning Competition) |
 | blog | [サイバーエージェントの2daysインターン「サーバーサイド向け 開発型インターンシップ ONLINE」に参加してきました！](https://toramasa.hatenablog.jp/entry/2020/06/10/010802) |
 
 ### 株式会社ビザスク

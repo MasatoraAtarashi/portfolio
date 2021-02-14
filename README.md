@@ -67,6 +67,7 @@
 | Job | エンジニア |
 | Detail | 「コロナによって失われた偶発的な出会いを取り戻す」をテーマにコミュニティに一日体験参加できるLINEボットを作成しました |
 | blog | https://github.com/MasatoraAtarashi/docomo-hacathon-E |
+![a](https://i.gyazo.com/bb15c8ae2faa4e87f2844e73f8cda5c1.png)
 
 ### クックパッド株式会社
 | key | value |

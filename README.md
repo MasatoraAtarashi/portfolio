@@ -57,7 +57,7 @@ Webで使えるしおりアプリ。AppStoreニュースカテゴリ有料部門
 釣り関連のキュレーションアプリ。色々あって公開停止。
 
 #### [Unko](https://github.com/MasatoraAtarashi/unko)
-unkoを表示するgem。
+unkoのアスキーアートを表示するgem。
 
 #### [Ten books](https://ten-books.herokuapp.com/)
 人生を決めた10冊の本を閲覧できるアプリ。Railsの勉強で作った。

@@ -68,19 +68,22 @@ unkoを表示するgem。
 
 #### [リバーシ](http://web.sfc.keio.ac.jp/~t17023ma/info2/final/Reversi/Reversi.html)
 オセロ。情報基礎の授業で作った。
-#### [ライフゲーム](https://openprocessing.org/sketch/649752) | ライフゲーム(p5.js)
+#### [ライフゲーム](https://openprocessing.org/sketch/649752)
 p5.jsで作ったカラフルなライフゲーム。
 
 #### [ポータブル魚群探知機](https://github.com/MasatoraAtarashi/Fish-finder)
 Arduino等で作った持ち歩きできる魚群探知機。
+
 #### [CLIで動く英単語学習アプリ](https://github.com/MasatoraAtarashi/WordQuiz)
 Javaで作ったゲーミフィケーション要素を取り入れた英単語学習アプリ。はじめてプログラミングを勉強して作った。
+
 ## 資格
 - TOEIC820点
 - itパスポート
 - 情報セキュリティマネジメント
 - varsant40点
 - 中国語検定準4級
+
 ## リンク
 | key | value |
 | :--- | :----|

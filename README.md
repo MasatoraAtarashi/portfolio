@@ -3,8 +3,7 @@
 - ソフトウェアエンジニア
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=MasatoraAtarashi&count_private=true)
-
-[![trophy](https://github-profi0le-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MasatoraAtarashi)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 職歴
 - サイバーエージェント(2022.04~予定)

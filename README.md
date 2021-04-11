@@ -4,7 +4,7 @@
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=MasatoraAtarashi&count_private=true)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profi0le-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 職歴
 - サイバーエージェント(2022.04~予定)
@@ -36,7 +36,7 @@
 | アマゾンウェブサービスジャパン株式会社 | 2020.08~2020.09 |
 | 株式会社日本経済新聞社 | 2020.08~2020.08 |
 | 株式会社サイバーエージェント | 2020.06~2020.06 |
-| 株式会社ビザスク | 2019.04~2019.7 |
+| 株式会社ビザスク | 2019.04~2019.07 |
 
 ## 作ったもの
 #### [Shiori web for safari](https://apps.apple.com/jp/app/shiori-web-for-safari/id1480539987?l=ja)

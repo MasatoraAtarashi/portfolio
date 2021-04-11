@@ -22,6 +22,8 @@
 - C
 - Big Query
 - HTML/JS/CSS
+- Python
+
 ## インターン
 | 会社名 | 期間 |
 | :--- | :----|
@@ -35,22 +37,24 @@
 | 株式会社日本経済新聞社 | 2020.08~2020.08 |
 | 株式会社サイバーエージェント | 2020.06~2020.06 |
 | 株式会社ビザスク | 2019.04~2019.7 |
+
 ## 作ったもの
 | 作ったもの | 概要 |
 | :--- | :----|
-| [Shiori web for safari](https://apps.apple.com/jp/app/shiori-web-for-safari/id1480539987?l=ja) | Webで使えるしおりアプリ。AppStoreニュースカテゴリ有料部門1位 通算13000ダウンロード |
-| [Excite Map](https://apps.apple.com/jp/app/excite-map/id1510231873) | 散歩に特化した地図アプリ |
-| Elite News | 日経新聞の実データを用いて、「なりたい姿」(たとえば、高収入なエンジニア等)を設定するとその姿に近づくために読むべき記事をサジェストするAIと、そのAIを用いたiOSアプリケーション |
+| [Shiori web for safari](https://apps.apple.com/jp/app/shiori-web-for-safari/id1480539987?l=ja) | Webで使えるしおりアプリ。AppStoreニュースカテゴリ有料部門1位 通算13000ダウンロード(Swift) |
+| [Excite Map](https://apps.apple.com/jp/app/excite-map/id1510231873) | 散歩に特化した地図アプリ(Ruby on Rails, Swift) |
+| Elite News | 日経新聞の実データを用いて、「なりたい姿」(たとえば、高収入なエンジニア等)を設定するとその姿に近づくために読むべき記事をサジェストするAIと、そのAIを用いたiOSアプリケーション(Python, Swift) |
 | [お着替えFoods for トレーナー](https://github.com/MasatoraAtarashi/cookpad-internship-2020-summer-pbl) | 一人暮らしを始めたばかりのユーザー(筋トレが趣味)のための、レシピを入力すると同等の栄養価のレシピを提案するサービス |
 | [d-AI](https://github.com/MasatoraAtarashi/docomo-hacathon-E) | 「コロナによって失われた偶発的な出会いを取り戻す」をテーマにコミュニティに一日体験参加できるLINEボット |
 | [釣りニュースまとめアプリ](https://apps.apple.com/jp/app/%E9%87%A3%E3%82%8A-%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9%E3%81%BE%E3%81%A8%E3%82%81%E3%82%A2%E3%83%97%E3%83%AA/id1479366414) | 釣りキュレーションアプリ |
 | [Unko](https://github.com/MasatoraAtarashi/unko) | unkoを表示するgem(Ruby) |
-| [Ten books](https://ten-books.herokuapp.com/) | 人生を決めた10冊の本を閲覧できるアプリ |
+| [Ten books](https://ten-books.herokuapp.com/) | 人生を決めた10冊の本を閲覧できるアプリ(Ruby on Rails) |
 | [オレオレブロックチェーン](https://github.com/MasatoraAtarashi/Oreoreblockchain) | 自分なりのブロックチェーン(Python) |
 | [リバーシ](http://web.sfc.keio.ac.jp/~t17023ma/info2/final/Reversi/Reversi.html) | オセロ(HTML,Javascript,CSS) |
-| [ライフゲーム](https://openprocessing.org/sketch/649752) | ライフゲーム |
+| [ライフゲーム](https://openprocessing.org/sketch/649752) | ライフゲーム(p5.js) |
 | [ポータブル魚群探知機](https://github.com/MasatoraAtarashi/Fish-finder) | 持ち歩きできる魚群探知機(c++) |
 | [CLIで動く英単語学習アプリ](https://github.com/MasatoraAtarashi/WordQuiz) | ゲーミフィケーション要素を取り入れた英単語学習アプリ(Java) |
+
 ## 資格
 - TOEIC820点
 - itパスポート

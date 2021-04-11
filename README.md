@@ -63,11 +63,15 @@ unkoを表示するgem。
 #### [Ten books](https://ten-books.herokuapp.com/)
 人生を決めた10冊の本を閲覧できるアプリ。Railsの勉強で作った。
 
+#### [Font](https://github.com/MasatoraAtarashi/font)
+オリジナルのフォント。postscriptというAdobe製の言語で作った。
+
 #### [オレオレブロックチェーン](https://github.com/MasatoraAtarashi/Oreoreblockchain)
 自分なりのブロックチェーン。Python製
 
 #### [リバーシ](http://web.sfc.keio.ac.jp/~t17023ma/info2/final/Reversi/Reversi.html)
 オセロ。情報基礎の授業で作った。
+
 #### [ライフゲーム](https://openprocessing.org/sketch/649752)
 p5.jsで作ったカラフルなライフゲーム。
 
@@ -75,7 +79,7 @@ p5.jsで作ったカラフルなライフゲーム。
 Arduino等で作った持ち歩きできる魚群探知機。
 
 #### [CLIで動く英単語学習アプリ](https://github.com/MasatoraAtarashi/WordQuiz)
-Javaで作ったゲーミフィケーション要素を取り入れた英単語学習アプリ。はじめてプログラミングを勉強して作った。
+Javaで作ったゲーミフィケーション要素を取り入れた英単語学習アプリ。はじめてプログラミングを勉強した16歳のときに作った。
 
 ## 資格
 - TOEIC820点

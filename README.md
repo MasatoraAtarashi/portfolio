@@ -6,7 +6,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=MasatoraAtarashi)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 職歴
-- サイバーエージェント(2022.04~予定)
+- なし
+
 ## 学歴
 - 慶應義塾大学環境情報学部
 

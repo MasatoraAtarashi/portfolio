@@ -39,7 +39,7 @@
 
 ## 作ったもの
 #### [Shiori web for safari](https://apps.apple.com/jp/app/shiori-web-for-safari/id1480539987?l=ja)
-Webで使えるしおりアプリ。AppStoreニュースカテゴリ有料部門1位。通算13000ダウンロード
+Webで使えるしおりアプリ。AppStoreニュースカテゴリ有料部門1位[(*)](https://github.com/MasatoraAtarashi/portfolio/blob/master/1%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC.jpeg)。通算13000ダウンロード
 
 #### [Excite Map](https://apps.apple.com/jp/app/excite-map/id1510231873)
 散歩に特化した地図アプリ。

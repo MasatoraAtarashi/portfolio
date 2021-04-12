@@ -1,6 +1,6 @@
 # About
 - 学生
-- ソフトウェアエンジニア
+- ソフトウェアエンジニア見習い
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=MasatoraAtarashi&count_private=true)
 [![trophy](https://github-profile-trophy.vercel.app/?username=MasatoraAtarashi)](https://github.com/ryo-ma/github-profile-trophy)

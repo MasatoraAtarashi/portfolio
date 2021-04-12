@@ -37,6 +37,12 @@
 | 株式会社サイバーエージェント | 2020.06~2020.06 |
 | 株式会社ビザスク | 2019.04~2019.07 |
 
+## 趣味
+- [釣り](https://github.com/MasatoraAtarashi/portfolio/blob/master/%E3%83%9E%E3%82%B0%E3%83%AD.jpg)
+- 読書
+- ゲーム
+- 野球
+
 ## 作ったもの
 #### [Shiori web for safari](https://apps.apple.com/jp/app/shiori-web-for-safari/id1480539987?l=ja)
 Webで使えるしおりアプリ。AppStoreニュースカテゴリ有料部門1位[(*)](https://github.com/MasatoraAtarashi/portfolio/blob/master/1%E3%81%AE%E3%82%B3%E3%83%94%E3%83%BC.jpeg)。通算13000ダウンロード

@@ -51,7 +51,7 @@ Webで使えるしおりアプリ。AppStoreニュースカテゴリ有料部門
 #### [Excite Map](https://apps.apple.com/jp/app/excite-map/id1510231873)
 散歩に特化した地図アプリ。
 
-#### [Elite News]()
+#### [Elite News](https://www.slideshare.net/secret/4TSz4GvImmQwkg)
 日経新聞の実データを用いて、「なりたい姿」(たとえば、高収入なエンジニア等)を設定するとその姿に近づくために読むべき記事をサジェストするAIと、そのAIを用いたiOSアプリケーション
 
 #### [お着替えFoods for トレーナー](https://github.com/MasatoraAtarashi/cookpad-internship-2020-summer-pbl)

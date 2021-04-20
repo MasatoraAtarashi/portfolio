@@ -16,13 +16,15 @@
 - Ruby on Rails
 - Docker
 - Git
-- Golang
+- SQL
 - Swift
+- Golang
 - AWS
 - C
 - Big Query
 - HTML/JS/CSS
-- Python
+- (ansible)
+- (Python)
 
 ## インターン
 | 会社名 | 期間 |

@@ -25,6 +25,8 @@
 - HTML/JS/CSS
 - (ansible)
 - (Python)
+- (R)
+- (Java)
 
 ## インターン
 | 会社名 | 期間 |

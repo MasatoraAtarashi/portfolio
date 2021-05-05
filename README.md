@@ -56,7 +56,7 @@ Webで使えるしおりアプリ。AppStoreニュースカテゴリ有料部門
 散歩に特化した地図アプリ。
 
 #### [progress](https://github.com/MasatoraAtarashi/progress)
-rogressは進捗を確認することのできるツール。具体的には、指定したリポジトリに対して自分が行った当日分のコミットを取得することができる。
+rogressは進捗を確認することのできるCLIツール。具体的には、指定したリポジトリに対して自分が行った当日分のコミットを取得することができる。Go製
 
 #### [Elite News](https://www.slideshare.net/secret/4TSz4GvImmQwkg)
 日経新聞の実データを用いて、「なりたい姿」(たとえば、高収入なエンジニア等)を設定するとその姿に近づくために読むべき記事をサジェストするAIと、そのAIを用いたiOSアプリケーション

@@ -23,9 +23,11 @@
 - C
 - Big Query
 - HTML/JS/CSS
+- シェルスクリプト
 - (ansible)
 - (Python)
 - (R)
+- (Scala)
 - (Java)
 
 ## インターン

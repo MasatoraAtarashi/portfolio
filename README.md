@@ -57,6 +57,9 @@ Webで使えるしおりアプリ。AppStoreニュースカテゴリ有料部門
 #### [Excite Map](https://apps.apple.com/jp/app/excite-map/id1510231873)
 散歩に特化した地図アプリ。
 
+#### [日報ジェネレーター](https://github.com/MasatoraAtarashi/nippo)
+その日に積んだコミットやSlackでの発言を収集して自動で日報を生成するCLIツール。Golang製
+
 #### [progress](https://github.com/MasatoraAtarashi/progress)
 rogressは進捗を確認することのできるCLIツール。具体的には、指定したリポジトリに対して自分が行った当日分のコミットを取得することができる。Go製
 

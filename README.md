@@ -102,9 +102,8 @@ Javaで作ったゲーミフィケーション要素を取り入れた英単語�
 
 ## OSS
 - [HsoiEnterprises/HELargeCenterTabBarController](https://github.com/HsoiEnterprises/HELargeCenterTabBarController)
-
-- about: HELargeCenterTabBarController is a 100% Swift implementation of a UITabBarController with a lager center tab.
-- PR: https://github.com/HsoiEnterprises/HELargeCenterTabBarController/pull/18
+  - about: HELargeCenterTabBarController is a 100% Swift implementation of a UITabBarController with a lager center tab.
+  - PR: https://github.com/HsoiEnterprises/HELargeCenterTabBarController/pull/18
 
 ## 資格
 - TOEIC820点

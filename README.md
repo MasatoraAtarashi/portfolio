@@ -100,6 +100,12 @@ Arduino等で作った持ち歩きできる魚群探知機。
 #### [CLIで動く英単語学習アプリ](https://github.com/MasatoraAtarashi/WordQuiz)
 Javaで作ったゲーミフィケーション要素を取り入れた英単語学習アプリ。はじめてプログラミングを勉強した16歳のときに作った。
 
+## OSS
+- [HsoiEnterprises/HELargeCenterTabBarController](https://github.com/HsoiEnterprises/HELargeCenterTabBarController)
+
+about: HELargeCenterTabBarController is a 100% Swift implementation of a UITabBarController with a lager center tab.
+PR: https://github.com/HsoiEnterprises/HELargeCenterTabBarController/pull/18
+
 ## 資格
 - TOEIC820点
 - itパスポート

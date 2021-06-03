@@ -17,6 +17,7 @@
 - Docker
 - Git
 - SQL
+- Java
 - Swift
 - Golang
 - AWS
@@ -28,7 +29,6 @@
 - (Python)
 - (R)
 - (Scala)
-- (Java)
 
 ## インターン
 | 会社名 | 期間 |

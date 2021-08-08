@@ -5,45 +5,8 @@
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=MasatoraAtarashi&count_private=true)
 [![trophy](https://github-profile-trophy.vercel.app/?username=MasatoraAtarashi)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 職歴
-- なし
-
-## 学歴
-- 慶應義塾大学環境情報学部
-
-## Skill(得意順)
-- [アイデアを考える](https://qiita.com/MasatoraAtarashi/items/eec4642fe1e6ce79304d)
-- Ruby on Rails
-- Docker
-- Git
-- SQL
-- Java
-- Swift
-- Golang
-- AWS
-- C
-- Big Query
-- HTML/JS/CSS
-- シェルスクリプト
-- (ansible)
-- (Python)
-- (R)
-- (Scala)
-
-## インターン
-| 会社名 | 期間 |
-| :--- | :----|
-| 株式会社サイバーエージェント(内定者バイト) | 2021.05~ |
-| 株式会社マネーフォワード | 2020.05~2021.02 |
-| 株式会社Wantedly | 2020.10~2020.10 |
-| 株式会社ハウテレビジョン | 2020.09~2020.09 |
-| 株式会社NTTドコモ | 2020.09~2020.09 |
-| クックパッド株式会社 | 2020.09~2020.09 |
-| SanSan株式会社 | 2020.09~2020.09 |
-| アマゾンウェブサービスジャパン株式会社 | 2020.08~2020.09 |
-| 株式会社日本経済新聞社 | 2020.08~2020.08 |
-| 株式会社サイバーエージェント | 2020.06~2020.06 |
-| 株式会社ビザスク | 2019.04~2019.07 |
+## 略歴
+[profile](https://www.wantedly.com/id/masatora_atarashi)
 
 ## 趣味
 - [釣り](https://github.com/MasatoraAtarashi/portfolio/blob/master/%E3%83%9E%E3%82%B0%E3%83%AD.jpg)
@@ -104,13 +67,6 @@ Javaで作ったゲーミフィケーション要素を取り入れた英単語�
 - [HsoiEnterprises/HELargeCenterTabBarController](https://github.com/HsoiEnterprises/HELargeCenterTabBarController)
   - about: HELargeCenterTabBarController is a 100% Swift implementation of a UITabBarController with a lager center tab.
   - PR: https://github.com/HsoiEnterprises/HELargeCenterTabBarController/pull/18
-
-## 資格
-- TOEIC820点
-- 応用情報技術者試験
-- 情報セキュリティマネジメント
-- varsant40点
-- 中国語検定準4級
 
 ## リンク
 | key | value |
